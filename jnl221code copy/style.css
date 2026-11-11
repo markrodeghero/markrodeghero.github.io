@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+  font-size: 50px;
+}
+
+body {
+  background-color: blueviolet;
+  margin-left: 35px;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: white;
+  background-color: none;
+  text-transform: none;
+  font-weight: none;
+  font-style: none;
+}
